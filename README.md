@@ -98,7 +98,7 @@ Essential hardware components for the MediBox system include:
     ```sh
     git clone https://github.com/uvinduuu/Smart-Medibox.git
     ```
-2. Open arduino IDE and upload the [sketch](software/sketch02.ino) .
+2. Open arduino IDE and upload the [sketch](Software/sketch02.ino) .
 3. Install Node-RED following the [official documentation](https://nodered.org/docs/getting-started/).
 4. Import the Node-RED flow from the repository.
 5. Run the Project:
@@ -107,14 +107,5 @@ Essential hardware components for the MediBox system include:
     - Open the Node-RED dashboard in the browser using the URL `http://localhost:1880/ui`.
 
 ## Simulation
-Set up the Workwi simulator for the project. The setup guide and simulation details can be found [here](link-to-simulation-guide).
+Set up the Workwi simulator for the project. The setup guide and simulation details can be found [here](Wokwi-Simulation).
 
-## Documentation
-Full documentation is available in the `Requirements` folder.
-
-- [Document 01](path/to/document01.pdf)
-- [Document 02](path/to/document02.pdf)
-
----
-
-This README file provides a comprehensive guide to the MediBox project, covering all aspects from system overview to installation and documentation. For detailed information, refer to the linked documents and guides.
