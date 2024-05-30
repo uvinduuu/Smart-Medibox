@@ -98,7 +98,7 @@ Essential hardware components for the MediBox system include:
     ```sh
     git clone https://github.com/uvinduuu/Smart-Medibox.git
     ```
-2. Set up VSCode.
+2. Open arduino IDE and upload the [sketch](software/sketch02.ino) .
 3. Install Node-RED following the [official documentation](https://nodered.org/docs/getting-started/).
 4. Import the Node-RED flow from the repository.
 5. Run the Project:
