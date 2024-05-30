@@ -98,10 +98,11 @@ Essential hardware components for the MediBox system include:
     ```sh
     git clone https://github.com/uvinduuu/Smart-Medibox.git
     ```
-2. Open arduino IDE and upload the [sketch](Software/sketch02.ino) .
-3. Install Node-RED following the [official documentation](https://nodered.org/docs/getting-started/).
-4. Import the Node-RED flow from the repository.
-5. Run the Project:
+2. Set up the hardware for the project from [here](Hardware).
+3. Open arduino IDE and upload the [sketch](Software/sketch02.ino) .
+4. Install Node-RED following the [official documentation](https://nodered.org/docs/getting-started/).
+5. Import the Node-RED flow from the repository.
+6. Run the Project:
     - Upload the firmware to the ESP32 development board.
     - Run the Node-RED server using the command `node-red` in the terminal.
     - Open the Node-RED dashboard in the browser using the URL `http://localhost:1880/ui`.
