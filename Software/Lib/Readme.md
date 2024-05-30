@@ -9,7 +9,7 @@
   - To install: Go to Arduino IDE -> Sketch -> Include Library -> Manage Libraries. Then search for "Adafruit GFX Library" and click "Install".
   
 - **Adafruit SSD1306**
-  - [Adafruit SSD1306 Library Documentation](https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-use)
+  - [Adafruit SSD1306 Library Documentation](https://www.arduino.cc/reference/en/libraries/adafruit-ssd1306/)
   - To install: Go to Arduino IDE -> Sketch -> Include Library -> Manage Libraries. Then search for "Adafruit SSD1306" and click "Install".
   
 - **DHT Sensor Library (DHTesp)**
