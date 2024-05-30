@@ -107,5 +107,5 @@ Essential hardware components for the MediBox system include:
     - Open the Node-RED dashboard in the browser using the URL `http://localhost:1880/ui`.
 
 ## Simulation
-Set up the Workwi simulator for the project. The setup guide and simulation details can be found [here](Wokwi Simulation).
+Set up the Workwi simulator for the project. The setup guide and simulation details can be found [here](Wokwi%20Simulation).
 
