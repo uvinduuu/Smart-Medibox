@@ -58,6 +58,8 @@ The MediBox system comprises several hardware components including an OLED scree
 
 This modular architecture ensures clear separation of concerns, enhances maintainability, and allows for future expansion of functionalities and integration of additional components.
 
+![Dashboard](Images/Dashboard.png)
+
 ## Hardware Components
 Essential hardware components for the MediBox system include:
 
