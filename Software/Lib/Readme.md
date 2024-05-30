@@ -17,7 +17,7 @@
   - To install: Go to Arduino IDE -> Sketch -> Include Library -> Manage Libraries. Then search for "DHTesp" and click "Install".
   
 - **WiFi**
-  - [WiFi Library Documentation](https://www.arduino.cc/en/Reference/WiFi)
+  - This library is included by default in the Arduino IDE. No additional link is necessary.
   - To install: Go to Arduino IDE -> Sketch -> Include Library -> Manage Libraries. Then search for "WiFi" and click "Install".
   
 - **ESP32Servo**
