@@ -6,6 +6,9 @@ The MediBox Embedded Systems and Networks Project aims to develop a smart pharma
 ## System Overview
 The MediBox system comprises several hardware components including an OLED screen, buzzer, push buttons, Light Dependent Resistors (LDRs), and a servo motor. The software components encompass embedded software for hardware control, an NTP client for time synchronization, an alarm management system, temperature/humidity monitoring, light intensity monitoring, and a user interface for configuration and interaction.
 
+![Overall View](Images/Diagram.png)
+
+
 ## Functionalities
 
 ### Core Functionalities
