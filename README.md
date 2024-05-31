@@ -110,3 +110,11 @@ Essential hardware components for the MediBox system include:
 ## Simulation
 Set up the Workwi simulator for the project. The setup guide and simulation details can be found [here](Wokwi%20Simulation).
 
+---
+## Contact
+
+For any clarifications or inquiries please feel free to contact me at uvindukodikara@gmail.com
+
+---
+
+
